@@ -1,0 +1,15 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.chenzhe.permission" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->C:\projects\js\rn\wenzhou-shop\node_modules\react-native-cz-permission\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+7-->C:\projects\js\rn\wenzhou-shop\node_modules\react-native-cz-permission\android\src\main\AndroidManifest.xml:5:5-79
+7-->C:\projects\js\rn\wenzhou-shop\node_modules\react-native-cz-permission\android\src\main\AndroidManifest.xml:5:22-76
+8    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+8-->C:\projects\js\rn\wenzhou-shop\node_modules\react-native-cz-permission\android\src\main\AndroidManifest.xml:6:5-76
+8-->C:\projects\js\rn\wenzhou-shop\node_modules\react-native-cz-permission\android\src\main\AndroidManifest.xml:6:22-73
+9
+10</manifest>
